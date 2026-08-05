@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/0001-two-sum) |
 | [1470-shuffle-the-array](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [3731-find-missing-elements](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/3731-find-missing-elements) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/0001-two-sum) |
 | [3731-find-missing-elements](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |

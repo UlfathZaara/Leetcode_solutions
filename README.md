@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/0001-two-sum) |
+| [0704-binary-search](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [3731-find-missing-elements](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/3731-find-missing-elements) |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

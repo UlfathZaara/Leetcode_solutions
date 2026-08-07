@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [3731-find-missing-elements](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/3731-find-missing-elements) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3971-maximum-total-value](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/3971-maximum-total-value) |
 ## Simulation
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/0001-two-sum) |
 | [3731-find-missing-elements](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/3731-find-missing-elements) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Sorting
 |  |
 | ------- |
@@ -70,4 +72,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+## Enumeration
+|  |
+| ------- |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 <!---LeetCode Topics End-->

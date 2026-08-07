@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [3731-find-missing-elements](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/3731-find-missing-elements) |
+| [3971-maximum-total-value](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/3971-maximum-total-value) |
 ## Simulation
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [3971-maximum-total-value](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/3971-maximum-total-value) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,8 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/0704-binary-search) |
+| [3971-maximum-total-value](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/3971-maximum-total-value) |
 ## Linked List
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Greedy
+|  |
+| ------- |
+| [3971-maximum-total-value](https://github.com/UlfathZaara/Leetcode_solutions/tree/master/3971-maximum-total-value) |
 <!---LeetCode Topics End-->
